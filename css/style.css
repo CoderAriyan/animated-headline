@@ -120,6 +120,21 @@ a:hover {
 }
 
 
+/* @media screen and (max-width : 634.98px) {
+
+    .hero-text-box h5 {
+
+        font-size: 40px;
+    }
+
+
+    .hero-text-box h1 {
+
+        font-size: 58px;
+        font-weight: 200;
+    }
+
+}
 @media screen and (max-width : 634.98px) {
 
     .hero-text-box h5 {
@@ -150,7 +165,7 @@ a:hover {
         font-weight: 200;
     }
 
-}
+} */
 
 
 
