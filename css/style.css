@@ -169,8 +169,21 @@ a:hover {
 
 
 
+@media screen and (max-width : 767.98px) {
+
+    .hero-text-box h5 {
+
+        font-size: 40px;
+    }
 
 
+    .hero-text-box h1 {
+
+        font-size: 48px;
+        font-weight: 200;
+    }
+
+}
 
 
 @media screen and (max-width : 575.98px) {
@@ -188,9 +201,85 @@ a:hover {
     }
 
 }
+@media screen and (max-width : 422.98px) {
+
+    .hero-text-box h5 {
+
+        font-size: 40px;
+    }
 
 
+    .hero-text-box h1 {
+
+        font-size: 38px;
+        font-weight: 200;
+    }
+
+}
+
+
+@media screen and (max-width : 396.98px) {
+
+    .hero-text-box h5 {
+
+        font-size: 40px;
+    }
+
+
+    .hero-text-box h1 {
+
+        font-size: 35px;
+        font-weight: 200;
+    }
+
+}
+
+@media screen and (max-width : 366.98px) {
+
+    .hero-text-box h5 {
+
+        font-size: 40px;
+    }
+
+
+    .hero-text-box h1 {
+
+        font-size: 33px;
+        font-weight: 200;
+    }
+
+}
 @media screen and (max-width : 347.98px) {
+
+    .hero-text-box h5 {
+
+        font-size: 40px;
+    }
+
+
+    .hero-text-box h1 {
+
+        font-size: 32px;
+        font-weight: 200;
+    }
+
+}
+@media screen and (max-width : 336.98px) {
+
+    .hero-text-box h5 {
+
+        font-size: 40px;
+    }
+
+
+    .hero-text-box h1 {
+
+        font-size: 31px;
+        font-weight: 200;
+    }
+
+}
+@media screen and (max-width : 325.98px) {
 
     .hero-text-box h5 {
 
@@ -205,7 +294,6 @@ a:hover {
     }
 
 }
-
 @media screen and (max-width : 314.98px) {
 
     .hero-text-box h5 {
@@ -216,7 +304,22 @@ a:hover {
 
     .hero-text-box h1 {
 
-        font-size: 25px;
+        font-size: 29px;
+        font-weight: 200;
+    }
+
+}
+@media screen and (max-width : 304.98px) {
+
+    .hero-text-box h5 {
+
+        font-size: 40px;
+    }
+
+
+    .hero-text-box h1 {
+
+        font-size: 28px;
         font-weight: 200;
     }
 
